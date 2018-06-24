@@ -99,6 +99,8 @@
         <module>modules/rocketmq</module>
         <module>modules/sqlline</module>
         <module>modules/ml</module>
+        <module>modules/geospatial</module>
+        <module>modules/schedule</module>
     </modules>
 
     <profiles>
